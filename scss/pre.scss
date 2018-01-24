@@ -1,0 +1,40 @@
+/**
+ * Override existing variables and set new ones
+ */
+
+// COLORS
+$fp-white: #fff;
+$fp-dark-grey: #232222;
+$fp-steel-grey-headers: #6d7885;
+$fp-light-grey: #dadeeb;
+$fp-very-light-grey: #eff2f5;
+$fp-very-light-grey-alt-bg: #fafbfc;
+$fp-dark-blue: #272f3a;
+$fp-darker-blue: #1f272a;
+$fp-green: #5dba47;
+$fp-green-darker: #4c993a;
+$fp-link-blue: #00a8e1;
+$fp-border-color: #dadeeb;
+$fp-placeholder-color: #919fad;
+$fp-secondary-color: #919fad;
+$fp-secondary-color-darker: #7c8894;
+
+// MISC
+$fp-border-radius: 3px;
+
+// BODY
+$body-bg: $fp-very-light-grey;
+$body-color: $fp-dark-grey;
+
+$link-color: $fp-link-blue;
+
+// DRAWER
+$drawer-bg: $fp-dark-blue;
+$drawer-padding-x: 24px;
+$drawer-padding-y: 0;
+
+// LIST GROUP / LIST ITEM
+//#dadeeb;
+
+// FOOTER
+$brand-inverse: $fp-dark-grey;
